@@ -5,3 +5,4 @@
 2、获取点击后的数字功能 <br><br>
 3、普通运算、四则运算、连续运算功能<br><br>
 4、高级计算器区域
+![image text](https://github.com/Boboyag/calculator/blob/master/img/1.jpg)
